@@ -13,7 +13,7 @@
     "ethash": {}
   },
   "nonce": "0x0",
-  "timestamp": "0x63132477",
+  "timestamp": "0x63747c29",
   "extraData": "0x0000000000000000000000000000000000000000000000000000000000000000",
   "gasLimit": "0x47b760",
   "difficulty": "0x80000",
@@ -788,7 +788,7 @@
     "00000000000000000000000000000000000000ff": {
       "balance": "0x1"
     },
-    "D4d9d19d028C98601e034Aef564881b0C96807B6": {
+    "change this string to copied address without 0x prefix": {
       "balance": "0x1BC16D674EC80000"
     }
   },
